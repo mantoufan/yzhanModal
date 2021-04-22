@@ -1,2 +1,2 @@
 # yzhanModal
-A jQuery plugin to show a modal dialog with support for iframe
+A jQuery plugin to show a modal dialog with support for iframes
