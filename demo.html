@@ -5,12 +5,18 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Demo of yzhan Modal</title>
+  <link rel="stylesheet" type="text/css" href="jquery.yzhanmodal.css" />
 </head>
 <body>
   <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-  <script></script>
+  <script>var yzhanPrefix = 'js';</script>
   <script src="jquery.yzhanmodal.js"></script>
   <script>
+    const jsModal = $.jsModal()
+    jsModal.open({
+      title: 'yzhanModal Demo: Open m.baidu.com with iframe',
+      url: 'http://m.baidu.com'
+    })
   </script>
 </body>
 </html>
