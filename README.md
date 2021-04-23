@@ -3,7 +3,7 @@ A jQuery plugin to show a modal dialog with support for iframes, supporting the 
 # Demo
 ## Popup with m.baidu.com using iframe
 - URL  
-[Webpage](https://mantoufan.github.io/yzhanModal/)
+[Webpage](https://mantoufan.github.io/yzhanModal/demo.html)
 - Captrue
 ![Demo](https://i.loli.net/2021/04/23/yLZ8nj7T2HbSwkX.png)
 
